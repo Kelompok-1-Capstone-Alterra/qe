@@ -1,4 +1,4 @@
-package java.dinda.hooks;
+package dinda.hooks.hooks;
 
 import org.junit.After;
 import test.dinda.driver.DriverPool;
