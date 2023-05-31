@@ -1,0 +1,2 @@
+digraph "test.dinda.mobile:capstone_kelompok-1_qe_mobile:jar:1.0-SNAPSHOT" { 
+ } 
