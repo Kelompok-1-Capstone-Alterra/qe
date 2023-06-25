@@ -1,0 +1,46 @@
+{
+  "version": "1.0",
+  "caps": [
+    {
+      "type": "text",
+      "name": "platformName",
+      "value": "Android"
+    },
+    {
+      "type": "text",
+      "name": "appium:deviceName",
+      "value": "emulator-5554"
+    },
+    {
+      "type": "text",
+      "name": "appium:app",
+      "value": "D:/data/S_6/altera_QE/capstone_kelompok-1_qe_mobile/app/apk-2.0.1.apk"
+    }
+  ],
+  "server": {
+    "local": {},
+    "remote": {
+      "port": "4723",
+      "hostname": "127.0.0.1",
+      "path": "/wd/hub"
+    },
+    "sauce": {
+      "dataCenter": "us-west-1"
+    },
+    "headspin": {},
+    "browserstack": {},
+    "lambdatest": {},
+    "advanced": {
+      "allowUnauthorized": true
+    },
+    "bitbar": {},
+    "kobiton": {},
+    "perfecto": {},
+    "pcloudy": {},
+    "testingbot": {},
+    "experitest": {},
+    "roboticmobi": {}
+  },
+  "serverType": "remote",
+  "visibleProviders": []
+}
